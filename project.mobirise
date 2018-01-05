@@ -1,0 +1,1346 @@
+{
+  "settings": {
+    "name": "The Sounds of Two Cities",
+    "currentPage": "home.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#337794",
+        "#105f71",
+        "#252525",
+        "#777777"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.5.4",
+    "uniqCompNum": 68,
+    "versionPublish": "4.5.4",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "page2.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Musical Terms ",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#105f71"
+            },
+            ".mbr-navbar__section": {
+              "background": "#105f71"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#c1c1c1"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#105f71",
+            "hamburgerColor": "#c1c1c1"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"home.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">MUSICAL TERMS</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"songsandsheetmusic.html\">SONGS AND SHEET MUSIC</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"sources.html\">SOURCES</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1n"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1630x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MUSICAL TERMS",
+          "text": "Here are all the definitions for the bolded terms of the analysis",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-1q"
+        },
+        {
+          "text": "<p><b>1. augmentation</b></p><p><b>&nbsp; &nbsp; </b>the lengthening of a note/interval<br></p><p><b>2. conjunct\n&nbsp;</b></p><p>&nbsp; &nbsp;smooth; easy to sing or play<b><br></b></p><p><b>3. consonance</b></p><p>&nbsp; &nbsp;a smooth-sounding harmonic combination<b><br></b></p><p><b>4. diminution</b></p><p>&nbsp; &nbsp; the shortening of a note/interval&nbsp;<b><br></b></p><p><b>5. disjunct\n</b></p><p>&nbsp; &nbsp; disjointedly ragged or jumpy; difficult to sing or play<b><br></b></p><p><b>6. dissonance</b></p><p>&nbsp; &nbsp; harsh-sounding harmonic combination<b><br></b></p><p><b>7. false cadence</b></p><p>&nbsp; &nbsp; a false conclusion that creates a sense of resolution<b><br></b></p><p><b>\n</b></p><p><b>8. homophonic</b></p><p>&nbsp; &nbsp; the main melody accompanied by chords<b></b></p><p><b>9. monophonic</b></p><p>&nbsp; &nbsp; single melodic line<b></b></p><p><b>10. polyphonic</b></p><p>&nbsp; &nbsp; two or more melodic lines<b></b></p><p><b>11. prosody</b></p><p>&nbsp; &nbsp; the patterns of rhythm and sound&nbsp;<b></b></p><p><b>12. theme</b></p><p>&nbsp; &nbsp; &nbsp;melody that is the basis for an extended musical work<b></b></p><p><b>13. tonality</b></p><p>&nbsp; &nbsp; harmony that focuses on a \"home\" key center (opposite: atonality)<b><br></b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;<b><br></b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1s",
+          "_styles": {
+            "P": {
+              "color": "#777777",
+              "text-align": "center"
+            }
+          }
+        }
+      ]
+    },
+    "home.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#105f71"
+            },
+            ".mbr-navbar__section": {
+              "background": "#105f71"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#c1c1c1"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#105f71",
+            "hamburgerColor": "#c1c1c1"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"home.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">MUSICAL TERMS</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"songsandsheetmusic.html\">SONGS AND SHEET MUSIC</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"sources.html\">SOURCES</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.2"
+          },
+          "title": "MUSICAL LINKS INVESTIGATION<br><br>The Sounds of Two Cities&nbsp;",
+          "text": "A Musical Analysis of New York's Swing <br>and Kyoto's Kabuki&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-6",
+          "_styles": {
+            "H1": {
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "The Sounds of Two Cities<br>",
+          "meta": "By Helen Nguyen<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8",
+          "_styles": {
+            "H3": {
+              "font-size": "25px",
+              "color": "#252525"
+            }
+          }
+        },
+        {
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Every city has its own story, unique from any other. But words alone cannot adequately encompass the life of each city. As Hans Christian Anderson states, \"Where words fail, music speaks,\" and the cities of New York and Kyoto speak loudly and dramatically.<br></p><p><b>New York City</b></p><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-i"
+        },
+        {
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One of the many sounds of New York is the bright, energetic, and upbeat sounds of Swing. Swing music originated from Harlem, New York City, New York in the 1930s, derived from Jazz. With Swing music and its powerful drive and groove, came swing dance, and so began the Swing Era which lasted from around 1935 to 1946. Large bands made of instrumental sections of reeds, brass, and percussion filled the streets of Harlem with the sweet sounds of Swing, and it only spread around the nation. The majority of the music and dance comes from African American communities, but as swing became more popular, it grew out of these communities giving life to musicians such as Benny Goodman, the King of Swing. Swing is not only used to tell the story of Harlem but also other stories with musical theater. Musicals like \"Swing!\" contain no dialogue,  the story is entirely told through music and dance.</p><p><b>Kyoto</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-j"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-720x1080.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-k"
+        },
+        {
+          "text": "<p>Then we jump over the Atlantic Ocean and across the world to the city of Kyoto, where Kabuki was born. Kabuki music consists of very theatrical pieces and is used to provoke many emotions.\n It originated from the Edo period  (1615-1868) as a source of stability, isolation, and unification. Like Swing, it involves many instruments, movements, and rhythms. Since the early 18th century, Kabuki had become an established art form that was capable of serious and dramatic presentations of genuinely moving situations. Theatrical kabuki centers on its music and dance to tell the story, similar to another type of music across the world.&nbsp;</p><p><b>The Two Cities Connected</b></p><p>&nbsp; &nbsp; &nbsp; &nbsp; Despite being on two ends of the world, the sounds of these cities have many links. Now, as seen before, there are similarities in how these types of music are similar in use and how they affect each cities' culture but are there any other links between these two kinds of music? One may think that the sounds of these two cities have to be saying different things. While they do say different stories, they way they tell each story is the same.   Not only are these two musical cultures used in dance and theater, but from melody and instrumentation to texture and harmony, these two cultures of music also have much more in common than is seen to the naked eye or ear.</p><p><br></p><p>*Definitions for <b>bolded terms</b> are found in the musical terms page on the menu of this page.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-l"
+        },
+        {
+          "text": "<p><b>Central Pieces&nbsp;</b></p><div><i>Sing Sing Sing</i> by Benny Goodman</div><div><i>Echigojishi&nbsp;</i>by Kineya Rokuzaemon IX</div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-m",
+          "_styles": {
+            "DIV": {
+              "color": "#105f71",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "HISTORY/FUN FACTS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-19"
+        },
+        {
+          "_inherit": "features1",
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<br><i>Sing Sing Sing</i> by Benny Goodman<br>",
+          "caption1": "<p>-It was originally a tune written by Louis Prima with vocals as the title suggest originally intended as a feature for singer Helen Ward.&nbsp;</p><p><br>-Goodman had an acerbic personality affecting his approach to music and his uneasy relationship with his bandmates.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; -“Benny was a terrific leader,” recalled pianist Jess Stacy, “but if I’d &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;had any spunk I’d probably have thrown the piano at him.\" Singer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Helen Forrest called Goodman “the rudest man I have ever met.\"</p>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "<br><i>Echigojishi</i> by Kineya Rokuzaemon IX",
+          "caption2": "-performed in Edo for the first time in 1811. Originally created for the Kabuki stage, it is now usually performed as a concert piece.<br><br>-<i>Echigojishi </i>is a lyrical piece about a provincial entertainer who makes his living in the city streets performing a folk-style lion dance.<br><br>- <i>Echigojishi </i>appears in Giocomo Puccini's opera Madama Butterfly. ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "WEB FONTS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_anchor": "content4-u"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MELODY AND INSTRUMENTATION",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-18"
+        },
+        {
+          "text": "<p>Musical melody can be defined merely as a series of pitches and rhythms that are <i>horizontally </i>organized, as seen when written in musical notation, to make up the piece. Each piece's melody also has a different instrumentation that majorly contributes to the <b>theme</b> of the composition. Melodies can be described as <b>conjunct</b> or <b>disjunct</b>&nbsp;with many unique scale systems.<br></p><p>In both of these pieces, we hear a minor tonal system. The haunting but beautiful sound of <i>Echigojishi </i>is one indication of the composition's minor tones. With this, we also see a striking feature in the melody: the use of a high F#, as seen here in measures 15 and 17.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-n",
+          "_styles": {
+            "P": {
+              "color": "#777777"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/echigoexcerpt-600x78.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-p"
+        },
+        {
+          "text": "<p>The key signature of Rokuzaemon's piece has no flats or sharps, so with the use of the high F#, the piece stands out much more. While the melody of <i>Sing Sing Sing </i>is quite different from the classical kabuki piece, similar techniques are used in the themes. Here, Goodman uses many sharps, but to make the piece stand out he uses a natural accidental to have the same striking feature as in <i>Echigojishi. </i>Alternate tones are included in each piece with the use of accidentals, sharps in<i> Echigojishi </i>and flats in <i>Sing Sing Sing.</i></p><p><i>Here is an example of this technique in measures 7, 8, and 12 in Sing Sing Sing</i></p><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-q"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sing-sing-sing-1071x135.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-s"
+        },
+        {
+          "text": "<p>The structure of the pieces use variations that contrast in the melody. Due to this, the melody is disjunct in both Goodman's and Rokuzaemon's pieces. This adds to the chaotic, fast-paced themes of the two pieces. While Sing Sing Sing has a 4/4 time signature, it is composed in cut time which matches the pace of Echigojishi's 2/4 time signature. We see a combination of quarter notes, eighth notes, and the rare occurrence of a dotted quarter note. The melody is continuously fast paced with this.&nbsp;</p><p>Being an upbeat swing song, <i>Sing Sing Sing </i>is filled with polyrhythms. The introduction begins with a compelling percussionist beat at 8th and 16th notes. However, after the 4th measure, the percussion starts the second beat with half \nnotes, as a counter-rhythm to the fast pace of the 8th and 16th notes. The notes are accented differently with each of the instruments as well to provide different sets of articulation and <b>prosody</b> in the performance. The polyrhythms do not just exist solely in the percussion. The other instruments play opposing rhythms as well that include sets of quarter notes that the Baritones, Altos, and Tenors play. Moving towards the center of the piece, many&nbsp;<b>arpeggios</b> of various instruments are seen. The constant change in rhythm along with the variance of it with the instruments provide a sense of busyness.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-t"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/busy-sing-889x630.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-x"
+        },
+        {
+          "text": "<p>Polyrhythms and a variety of instrumentation are heard in<i> Echigojishi </i>as well. Here, this piece starts off with a sharp percussion ensemble similar to <i>Sing Sing Sing. </i>The percussion begins with a slower rhythm filled with quarter notes and rests as the flutes intervene in the second measure with a counter rhythm to the percussion. As things speed up, then hear a <b>false cadence</b> early in the song with a whole measure rest then a drum roll with the percussion and flutes to introduce the melody of the shamisen. The flutes play a final arpeggio, and we hear the vibrant sound of the shamisen with a rhythm filled with 8th notes that speeds up the song. In the background, we continue to hear the flutes and percussion with a counter melody and rhythm. Together the instrumentation of the piece forms a chaotic sound, one of the reasons why <i>Echigojishi </i>is also known as &nbsp;<i>The Lion of Echigo.</i></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-y"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/shamisen-600x450.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "SHAMISEN",
+          "caption1": "A three-stringed lute from Japan played with a plectrum called a bachi. It is similar to the American banjo. The body is covered with a stretched skin.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/japanese-flute-282x179.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "SHAKUHACHI",
+          "caption2": "A Japanese end-blown flute. It was originally introduced from China into Japan in the 6th century and underwent a resurgence in the early Edo Period.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/japanese-drums-600x400.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "OTSUZUMI, KOTSUZUMI<br>&amp;<br>SHIME-DAIKO",
+          "caption3": "<i>(Otsuzumi lower left, kotsuzumi upper left, shime-daiko right)</i><br>The otsuzumi and kotsuzumi have similar structures but the otsuzumi is larger and has thicker heads.They are held in the left hand on the left thigh with the right hand striking the head.<br>The shime daiko is a small Japanese drum. It has a short but wide body with animal skin drumheads on both its upper and bottom sides.&nbsp;<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/taiko-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "TAIKO",
+          "caption4": "Taiko is the Japanese word for drum. In North America, this term is used to describe both the Japanese drum itself and the art form of kumidaiko (ensemble drumming with Japanese drums).",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-1a"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/swing-band-1200x905.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1c"
+        },
+        {
+          "text": "<p>A typical swing band: Saxophones (alto and tenor, baritone as well), trumpet, trombone,  clarinet, upright bass, guitar, piano, drums. &nbsp;\n</p><p>The Swing Era is also known as the Big Band Era since the number of instruments in these bands was considerably larger than during the previous Dixieland era. &nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1d"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "HARMONY AND TEXTURE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>M</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1f"
+        },
+        {
+          "text": "<p>Another critical component of a musical piece is its harmony. Harmony is the <i>vertical </i>organization of notes, in other words, chords. Harmonic chords are described as major, minor, <b>augmented, </b>or<b> diminished</b>, and is often described regarding its harshness, being <b>dissonant </b>or<b> consonant</b>. Harmony gives texture to a piece, and it plays the supporting role to the melody in a piece. Texture is can be of three things: <b>monophonic, polyphonic, </b>or<b> homophonic</b>. Melody, harmony, and texture come together to form the timbre, or the tone color, of a composition.&nbsp;</p><p>As mentioned before both Goodman's and Rokuzaemon's compositions are of minor tones. In <i>Sing Sing Sing</i> there is a chord progression of Am Bb G Em G# C#m. The harmony of this song is quite dissonant because of this and is also due to the multiple melodies that overlap each other with different pitches as well due to the vast instrumentalization. The fast paced and chaotic theme of the song also correlates to the piece's diminuation of notes with 8th notes. This is done to make the piece seem more hurried.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1g"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sing-sing-sing-diminished-669x61.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1j"
+        },
+        {
+          "text": "Rokuzaemon uses the same effect in his Lion Dance composition. Especially seen in meausre 28-30.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1k"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kabuki-710x92.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1l"
+        },
+        {
+          "text": "<p>Because of its minor tones and contrasting instrumentalization the pieces are both very dissonant. This plays a highly essential component to the theme and timbre of the song. The divergent sounds of a harsh plucked shamisen and the softer melody and harmonization of the flutes in Echigojishi and the bright tones of a trumpet changing with varying verses into a more upbeat haunting sound near the end which contradicts the lower sounds the trombone are all examples of dissonance in the pieces overall harmonization.\n</p><p>With this comes the polyphonic component of the compositions. You can hear the various melodies, and counter melodies played by the instruments as seen with its dissonance. Each piece has multiple layers to the composition that vary widely. It is unlike other arrangements in other musical culture like Beethoven or Scott Joplin which mainly are either monophonic or homophonic. \n</p><p>We then move onto the pieces' timbre. Both are mainly used for dancing or theatrical acts, the tone color of each composition is very resonant and lively but continue to have dark tones due to the minor chords of the pieces. The <b>tonality</b> of<i> Sing Sing Sing </i>focuses on the C#m, but there is chord progression. While Echigojishi does not have the same chord progression, it is still tonal with a focus on a C#m as well.  The flutes and drums in <i>Echigojishi</i> set a festive atmosphere, giving the shamisen a background for it to provide the haunting tones of the piece. In <i>Sing Sing Sing</i> the trumpets take the lead with the melody giving the arrangement the swinging vibe while the trombones give the composition it's darker brassier sounds.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1m"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "REASON FOR ANALYSIS<br>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1h"
+        },
+        {
+          "text": "<div>I have always been interested in music created for dance, and these two cultures are not only emotionally provoking, but movement provoking as well. I chose swing primarily because I have always loved it. Its upbeat and rhythmic tunes make me want to get up and dance. The brass and strings in the swing music also blend so well, and while it is dramatic, it still has a sense of lightness to it. I chose Kabuki music because I have been getting more interested in modern day Japanese music and I wanted to look back at more traditional types of Japanese music. While this is a traditional form of music in Japan, it was used for dramas, making it very amusing and fun to listen to.</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1i"
+        }
+      ]
+    },
+    "songsandsheetmusic.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Songs and Sheet Music",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SONGS AND SHEET MUSIC",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-1t"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Echigojish-Ensemble Nipponia",
+          "meta": "By&nbsp;Kineya Rokuzaemon&nbsp;IX",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-11"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#105f71"
+            },
+            ".mbr-navbar__section": {
+              "background": "#105f71"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#c1c1c1"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#105f71",
+            "hamburgerColor": "#c1c1c1"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"home.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">MUSICAL TERMS</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"songsandsheetmusic.html\">SONGS AND SHEET MUSIC</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"sources.html\">SOURCES</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-z"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=EWEXCDTNMZA",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-10"
+        },
+        {
+          "text": "<p><b>MUSIC SHEET</b></p><p>http://www.daisyfield.com/music/jpm/pdf/JPM096-Echigo-Jishi.pdf</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-16"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "<br>Sing Sing Sing",
+          "meta": "By Benny Goodman",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=fhyhP_5VfKM",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-13"
+        },
+        {
+          "text": "<p><b>MUSIC SHEET</b></p><p>https://musescore.com/user/35033/scores/755886</p><p><b><br></b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-15"
+        }
+      ]
+    },
+    "sources.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Sources",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#105f71"
+            },
+            ".mbr-navbar__section": {
+              "background": "#105f71"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#c1c1c1"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#105f71",
+            "hamburgerColor": "#c1c1c1"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"home.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">MUSICAL TERMS</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"songsandsheetmusic.html\">SONGS AND SHEET MUSIC</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"sources.html\">SOURCES</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1o"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1617x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SOURCES",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-1u"
+        },
+        {
+          "text": "<p>DaisyField. “About ‘Echigo Jishi.’” <i>About Echigo-Jishi</i>, daisyfield.com/music/htm/japan/Echigo-Jishi.htm.\n</p><p></p><div>The Editors of Encyclopædia Britannica. “Benny Goodman.” <i>Encyclopædia Britannica</i>, Encyclopædia Britannica, Inc., 21 Apr. 2017, www.britannica.com/biography/Benny-Goodman.\n</div><div><br></div><div>Estrella, Espie. “The Basic Elements of Music Explained.” <i>ThoughtCo</i>, www.thoughtco.com/the-elements-of-music-2455913.\n</div><div><br></div><div>“Jazz: W. W. Norton StudySpace.”<i> Swing Bands</i>, www.wwnorton.com/college/music/jazz/ch/07/outline.aspx.\n</div><div><br></div><div>Kamien, Roger. <i>Music: an Appreciation.</i> McGraw-Hill Education, 2018.\n</div><div><br></div><div>Nelson, Ronald. “Echigojishi (Nagauta).” <i>The International Shakuhachi Society</i>, www.komuso.com/pieces/pieces.pl?piece=6016.\n</div><div><br></div><div>“O-Tsuzumi | Japanese | The Met.” <i>The Metropolitan Museum of Art, I.e. The Met Museum,</i> www.metmuseum.org/art/collection/search/504426.\n</div><div><br></div><div>“The Swing Era.” <i>Jazz in America</i>, www.jazzinamerica.org/LessonPlan/5/3/228.</div><div><br></div><div>\n</div><div>Wade, Bonnie C. <i>Music in Japan: Experiencing Music, Expressing Culture.</i> Oxford Univ. Press, 2011.</div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1v"
+        }
+      ]
+    }
+  }
+}
